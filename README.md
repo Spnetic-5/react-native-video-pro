@@ -39,10 +39,7 @@ cd ios && pod install
 ```
 
 ## Demo
-<video width="50%" controls>
-  <source src="assets/demo.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Video Demo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dob3h5OHZueXo5aW12NThpeDBnYXgzY2FqZm9xdzQxa2NsZDFkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q7KIcLp9K4qoazDf6M/giphy.gif)
 
 ## Usage
 
